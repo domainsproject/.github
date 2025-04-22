@@ -2,7 +2,7 @@
 
 Free, open-source subdomains for developers and creators — starting with `owns.it.com`.
 
-> Inspired by [is-a.dev](https://github.com/is-a-dev/register) and [js.org](https://github.com/js-org/js.org)
+> Inspired by [is-a.dev](https://github.com/is-a-dev/register) and [open-domains](https://github.com/open-domains)
 
 ---
 
@@ -22,11 +22,11 @@ No forms. No dashboards. Just fork, configure a JSON file, and open a pull reque
 ## How it works
 
 1. **Fork** this repository
-2. **Add** a config file to the `domains/` folder (e.g. `yourname.json`)
+2. **Add** a config file to the `domains/` folder (e.g. `yourname.domain.json`)
 3. **Submit** a pull request
 4. **Get merged**, and your subdomain goes live
 
-See the full [Get Started guide](https://yourdomain.com/getting-started) for details.
+See the full [Get Started guide](https://getyourfree.space/getting-started) for details.
 
 ---
 
@@ -42,21 +42,21 @@ See the full [Get Started guide](https://yourdomain.com/getting-started) for det
 
 ## Documentation
 
-All docs live at [yourdomain.com](https://yourdomain.com):
+All docs live at [getyourfree.space](https://yourdomain.com):
 
-- [Getting Started](https://yourdomain.com/getting-started)
-- [Configuration](https://yourdomain.com/configuration)
-- [Available Domains](https://yourdomain.com/domains)
-- [Rules](https://yourdomain.com/rules)
-- [API Reference](https://yourdomain.com/api)
+- [Getting Started](https://getyourfree.space/core/introduction)
+- [Configuration](https://getyourfree.space/guides/configuration)
+- [Available Domains](https://getyourfree.space/core/domains)
+- [Rules](https://getyourfree.space/guides/rules)
+- [API Reference](https://getyourfree.space/api-reference/introduction)
 
 ---
 
 ## Community
 
-- [Contributors](https://yourdomain.com/contributors)
-- [Supporters](https://yourdomain.com/supporters)
-- [Open an Issue](https://github.com/yourorg/register/issues)
+- [Contributors](https://getyourfree.space/community/contributors)
+- [Supporters](https://getyourfree.space/community/supporters)
+- [Open an Issue](https://github.com/domainsproject/register/issues)
 
 ---
 
